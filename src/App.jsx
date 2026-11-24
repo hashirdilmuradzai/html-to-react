@@ -26,7 +26,7 @@ function App() {
         <li>Creating lasting memories</li>
       </ul>
       <h2>Discover More</h2>
-      <img src="./src/img.jpg" alt="" />
+      <img src="/img.jpg" alt="" />
       <p>The Majestic Victoria Falls</p>
       <a href="https://github.com/hashirdilmuradzai">
         Explore more natural wonders.
